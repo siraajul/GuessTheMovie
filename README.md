@@ -1,7 +1,6 @@
 # GuessTheMovie
 
-![GuessTheMovie App Screenshot](screenshots/main_screen.png)
-
+<img src = "https://github.com/siraajul/GuessTheMovie/blob/main/screenshot.png" width ="200" />
 GuessTheMovie is a fun, interactive SwiftUI app where players guess movie titles based on emoji representations. The app uses AVFoundation for text-to-speech functionality, allowing users to hear the correct movie title when they tap on an emoji button.
 
 ## Features
